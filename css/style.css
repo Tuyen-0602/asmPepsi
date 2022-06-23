@@ -82,11 +82,11 @@ nav>a {
     font-size: 18px;
     line-height: 28px;
     font-weight: 600;
+    transition: all 0.5s;
 }
 
 nav a:hover {
     color: #FFFFFF;
-    transition: all 0.5s;
 }
 
 .home {
